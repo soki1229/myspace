@@ -2,14 +2,14 @@
 title:            Soki
 tagline:          'Space Reporting Backtrace'
 description:      'Work hard to work less. Made by soki.'
-url:              https://hyde.getpoole.com
-baseurl:          ''
+url:              'https://soki1229.github.io'
+baseurl:          '/myspace'
 paginate:         5
 
 # About and contact
 author:
   name:           'Philip Kim'
-  url:            https://twitter.com/mdo
+  url:            
 
 # Gems
 plugins:
