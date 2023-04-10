@@ -1,14 +1,14 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
-baseurl:          ''
+title:            Soki
+tagline:          'Space Reporting Backtrace'
+description:      'Work hard to work less. Made by soki.'
+url:              soki1229.github.io
+baseurl:          '/myspace'
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
+  name:           'Philip Kim'
   url:            https://twitter.com/mdo
 
 # Gems
@@ -18,3 +18,5 @@ plugins:
 
 # Custom vars
 version:          3.0.0
+
+
