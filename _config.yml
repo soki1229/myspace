@@ -2,8 +2,8 @@
 title:            Soki
 tagline:          'Space Reporting Backtrace'
 description:      'Work hard to work less. Made by soki.'
-url:              soki1229.github.io
-baseurl:          '/myspace'
+url:              https://hyde.getpoole.com
+baseurl:          ''
 paginate:         5
 
 # About and contact
@@ -18,5 +18,3 @@ plugins:
 
 # Custom vars
 version:          3.0.0
-
-
