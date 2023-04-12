@@ -2,7 +2,7 @@
 layout: post
 title: "시스템 공격 기법의 종류와 개념"
 date: 2023-04-12
-categories: "소프트웨어 개발 보안 설계"
+categories: notes
 ---
 
 1. DoS(Denial of Service)
