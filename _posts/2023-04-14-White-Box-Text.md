@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "화이트박스 테스트(White-Box Test)"
-date: 2023-04-12
+date: 2023-04-14
 categories: "notes"
 ---
 
