@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “테스트 오라클(Test Oracle)”
+title: "테스트 오라클(Test Oracle)"
 date: 2023-04-15
 categories: "notes"
 ---
