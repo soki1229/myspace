@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "블랙박스 테스트(Black-Box Test)"
-date: 2023-04-12
+date: 2023-04-14
 categories: "notes"
 ---
 
